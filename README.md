@@ -1,0 +1,2 @@
+# AndroidOpenSLES
+一个完整的使用OpenGLES进行视频渲染的测试代码
